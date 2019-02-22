@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Zynq-Video-Board-Rev-1.2.GBR   12/7/2018  10:51:37 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 Power Layer                             
+.G2                 GND Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                PCB Outline                             
+.GM2                PCB Fab Notes                           
+.GM3                PCB Asm Notes                           
+.GM13               Top Body                                
+.GM15               Top Courtyard                           
+.GM17               Top Cmp Notes                           
+.GKO                Keep-Out Layer                          
+------------------------------------------------------------------------------------------

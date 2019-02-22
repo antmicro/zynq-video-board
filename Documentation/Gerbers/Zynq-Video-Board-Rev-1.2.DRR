@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Zynq-Video-Board.PcbDoc   12/7/2018  10:51:44 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Zynq-Video-Board-Rev-1.2-RoundHoles.TXT
+ASCII SlotHoles File : Zynq-Video-Board-Rev-1.2-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        9.84mil (0.24994mm)      Round          594              75.45 Inch (1916.53 mm)
+T2        13.78mil (0.35001mm)     Round          1                0.00 Inch (0.00 mm)
+T3        21.65mil (0.54991mm)     Slot           2                286.74 Inch (7283.14 mm)
+T4        30mil (0.762mm)          Round          14               1.02 Inch (26.00 mm)
+T5        33.46mil (0.84988mm)     Slot           2                286.62 Inch (7280.24 mm)
+T6        35.43mil (0.89992mm)     Round          18               3.25 Inch (82.67 mm)
+T7        35.43mil (0.89992mm)     Slot           4                289.03 Inch (7341.44 mm)
+T8        39.37mil (1mm)           Slot           3                286.04 Inch (7265.34 mm)
+T9        40.16mil (1.02006mm)     Round          6                3.61 Inch (91.61 mm)
+T10       42.01mil (1.06705mm)     Round          24               3.49 Inch (88.58 mm)
+T11       55.12mil (1.40005mm)     Round          1                0.00 Inch (0.00 mm)
+T12       59.06mil (1.50012mm)     Round          1                0.00 Inch (0.00 mm)
+T13       62.99mil (1.59995mm)     Round          2                0.61 Inch (15.49 mm)
+T14       72.83mil (1.84988mm)     Round          5                1.14 Inch (28.84 mm)
+T15       90.55mil (2.29997mm)     Round          4                0.96 Inch (24.50 mm)
+T16       118.11mil (2.99999mm)    Round          2                2.50 Inch (63.60 mm)
+T17       141.73mil (3.59994mm)    Round          4                16.90 Inch (429.32 mm)
+T18       31.5mil (0.8001mm)       Round          2         NPTH   0.20 Inch (5.00 mm)
+T19       43.31mil (1.10007mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T20       62.99mil (1.59995mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T21       127.95mil (3.24993mm)    Round          2         NPTH   0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            693              1258.02 Inch (31953.73 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
