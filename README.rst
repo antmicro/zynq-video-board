@@ -18,7 +18,7 @@ It can also act as a simple evaluation kit for educational purposes.
 Key features
 ============
 
-* Mars ZX2 SO-DIMM connector
+* SO-DIMM connector supporting Enclustra Mars family
 * Gigabit Ethernet RJ45 connector
 * Micro SD connector
 * USB 2.0 hub with two downstream ports exposed
