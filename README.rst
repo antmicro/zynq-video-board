@@ -2,6 +2,8 @@
 Zynq Video Board
 ================
 
+Copyright (c) 2018-2021 `Antmicro <https://www.antmicro.com>`_
+
 .. image:: Images/zvb.png
    :scale: 40%
 
@@ -63,3 +65,8 @@ Please refer to the schematic sheets for more details.
 After connecting the micro USB debug port to the host PC you should see four new ``/dev/ttyUSBx`` devices in your system.
 The default debug UART channel is accessible through ``/dev/ttyUSB2`` (assuming that there are no other FTDI units connected to your PC).
 The default baudrate for serial debug connection is 115200 baud with 8-bit transmission, 1 stop bit and with no flow control.
+
+License
+=======
+
+`Apache-2.0 <LICENSE>`_
