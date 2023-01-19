@@ -2,7 +2,7 @@
 Zynq Video Board
 ================
 
-Copyright (c) 2018-2021 `Antmicro <https://www.antmicro.com>`_
+Copyright (c) 2018-2023 `Antmicro <https://www.antmicro.com>`_
 
 .. image:: Images/zvb.png
    :scale: 40%
@@ -32,13 +32,6 @@ Key features
 * 2x Digilent Pmod (TM) connectors for external accessories
 
 The PCB project files were prepared in Altium Designer 14.1.
-
-Board layout & dimensions
-=========================
-
-The picture below presents the general layout of the PCB with interfaces marked.
-
-.. figure:: Images/layout.png
 
 Getting started
 ===============
